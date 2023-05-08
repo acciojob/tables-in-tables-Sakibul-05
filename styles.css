@@ -3,3 +3,7 @@
 .table-1 li{
 	padding-left: 38%;
 }
+.bg-black{
+	background-color: rgb(0,0,0);
+	color: white;
+}
